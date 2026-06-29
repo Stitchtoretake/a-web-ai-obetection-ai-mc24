@@ -1,4 +1,4 @@
-# 
+# Exclusivo A web AI object detection fluxo de trabalho. Com treinamento de modelos e aumento de dados — otimizado para máximo desempenho.
 
 
 
